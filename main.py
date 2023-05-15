@@ -8,4 +8,4 @@ elif idade>= 18 and idade<= 65:
 elif idade>= 65:
     print("vá descansar")
 else:
-    print("eita!")
+    print("Eita!")
